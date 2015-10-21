@@ -1,0 +1,26 @@
+{
+  "name": "subxy",
+  "version": "0.0.1",
+  "description": "child process function manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-loh/subxy.git"
+  },
+  "keywords": [
+    "child_process",
+    "child",
+    "process",
+    "load",
+    "balancing"
+  ],
+  "author": "Ivan Loh <ivan@eriad.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-loh/subxy/issues"
+  },
+  "homepage": "https://github.com/ivan-loh/subxy#readme"
+}
